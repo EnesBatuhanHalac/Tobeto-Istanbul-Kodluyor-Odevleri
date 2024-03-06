@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.exe
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.deps.json
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.runtimeconfig.json
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.dll
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.pdb
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.AssemblyInfo.cs
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.dll
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\refint\FirstHomeWork.dll
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.pdb
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.genruntimeconfig.cache
+C:\Users\user\Desktop\tobetodeneme\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\ref\FirstHomeWork.dll
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.exe
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.deps.json
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.runtimeconfig.json
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.dll
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\bin\Debug\net8.0\FirstHomeWork.pdb
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.AssemblyInfo.cs
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.dll
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\refint\FirstHomeWork.dll
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.pdb
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\FirstHomeWork.genruntimeconfig.cache
+C:\Users\user\Desktop\Tobeto Istanbul Kodluyor Odevleri\FirstHomeWork\FirstHomeWork\obj\Debug\net8.0\ref\FirstHomeWork.dll
