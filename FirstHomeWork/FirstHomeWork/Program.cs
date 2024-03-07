@@ -246,3 +246,32 @@
 //metotta verilen sayisal degerden metnin bosluklar dahil uzunlugu cikartilir ve kalan sayi kadar sol tarafa ekleme yapilir.
 
 //Console.WriteLine(metin5.PadLeft(20, 'a'));
+
+//7- kullanıcıdan öğrenci sayısını isteyen her öğrenci için öğrenci adı,öğrenci soyadı,1.sınav notu,2.sınav notu,3.sınav notu isteyen ve daha sonra not ortalamasını hesaplayıp ekrana yazdıran algoritma yapınız.(For döngüsü kullanınız)
+
+Console.WriteLine("Ögrenci Not Programına Hos geldiniz");
+Console.WriteLine("Ögrenci Sayısını Giriniz:");
+int studentNumber=Convert.ToInt32(Console.ReadLine());
+
+for (int i =0;i< studentNumber; i++)
+{
+    Console.WriteLine("Ögrenci Adını Giriniz:");
+    string studentName=Console.ReadLine();
+
+    Console.WriteLine("Ögrenci Soy Adını Giriniz:");
+    string studentSurName = Console.ReadLine();
+
+    Console.WriteLine("Ögrenci 1.Sınav Notunu Giriniz:");
+    int studentFirstExam = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("Ögrenci 2. SınavNotunu Giriniz:");
+    int studentSecondExam = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("Ögrenci 3. Sınav Notunu Giriniz:");
+    int studentThirthExam = Convert.ToInt32(Console.ReadLine());
+
+    int avg = (studentFirstExam + studentSecondExam + studentThirthExam) / 3;
+
+    Console.WriteLine("isim: " + studentName +" SoyAdı " + studentSurName + " 1.Sınav Notu:  " +  studentFirstExam +" 2. Sınav Notu: " +  studentSecondExam + " 3.Sınav Notu: " + studentThirthExam + " Ortalama: " + avg);
+
+}
