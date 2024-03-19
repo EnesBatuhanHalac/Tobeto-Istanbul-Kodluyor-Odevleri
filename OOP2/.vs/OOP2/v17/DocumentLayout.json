@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|c:\\users\\user\\desktop\\tobeto\\tobeto istanbul kodluyor odevleri\\sixthhomework\\oop2\\oop2\\frans\u0131z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\frans\u0131z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|c:\\users\\user\\desktop\\tobeto\\tobeto istanbul kodluyor odevleri\\sixthhomework\\oop2\\oop2\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|c:\\users\\user\\desktop\\tobeto\\tobeto istanbul kodluyor odevleri\\sixthhomework\\oop2\\oop2\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|c:\\users\\user\\desktop\\tobeto\\tobeto istanbul kodluyor odevleri\\sixthhomework\\oop2\\oop2\\tavsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD44271-771A-4F83-9019-10922877D2F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\tavsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frans\u0131z.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Frans\u0131z.cs",
+              "RelativeDocumentMoniker": "OOP2\\Frans\u0131z.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Frans\u0131z.cs",
+              "RelativeToolTip": "OOP2\\Frans\u0131z.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:33:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kopek.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Kopek.cs",
+              "RelativeDocumentMoniker": "OOP2\\Kopek.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Kopek.cs",
+              "RelativeToolTip": "OOP2\\Kopek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:01:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tavsan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Tavsan.cs",
+              "RelativeDocumentMoniker": "OOP2\\Tavsan.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Tavsan.cs",
+              "RelativeToolTip": "OOP2\\Tavsan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:00:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Hayvan.cs",
+              "RelativeDocumentMoniker": "OOP2\\Hayvan.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tobeto\\Tobeto Istanbul Kodluyor Odevleri\\SixthHomeWork\\OOP2\\OOP2\\Hayvan.cs",
+              "RelativeToolTip": "OOP2\\Hayvan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:58:54.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
