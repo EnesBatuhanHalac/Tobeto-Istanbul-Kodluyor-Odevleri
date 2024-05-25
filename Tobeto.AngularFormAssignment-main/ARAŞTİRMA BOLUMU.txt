@@ -1,0 +1,79 @@
+Angular Directive'ler Html elementlerine müdahale etmemize olanak tanıyor bu mudahale 2 şekilde olabiliyor.İlk olarak bir event vererek müdahil olabiliyoruz 2. olarak
+constructure'dan müdahil olabiliyoruz Html elementlerinin Style'larini ve classlarina müdahale etmemizi sagliyor. Structural ve Attribute directives olarak 2ye ayriliyor.
+
+Built-in directiveler:
+
+*ngIf 
+<div *ngIf="isLoggedIn">Kullanıcı giriş yaptı.</div>
+
+else bloğu ile birlikte kullanılabilir:
+<div *ngIf="isLoggedIn; else loggedOut">Giriş yaptınız!</div>
+<ng-template #loggedOut>Giriş yapmadınız.</ng-template>
+
+then ve else blokları da kullanılabilir:
+<ng-container *ngIf="isLoggedIn; then loggedInTemplate else loggedOutTemplate"></ng-container>
+<ng-template #loggedInTemplate>Giriş yaptınız!</ng-template>
+<ng-template #loggedOutTemplate>Giriş yapmadınız.</ng-template>
+
+
+*ngFor
+Bir döngü olusturur ve verilen sartlar tamamlanana kadar döngü tekrar eder.
+
+
+<ul>
+  <li *ngFor="let item of items">{{ item }}</li>
+</ul>
+
+<ul>
+  <li *ngFor="let item of items; let i = index; let isFirst = first; let isLast = last">
+    {{ i }}: {{ item }} <span *ngIf="isFirst">(İlk)</span> <span *ngIf="isLast">(Son)</span>
+  </li>
+</ul>
+
+
+
+
+Açıklama: Belirtilen bir ifadeye göre farklı şablonlar arasında geçiş yapar.
+Kullanım: ngSwitch, ngSwitchCase ve ngSwitchDefault direktifleri birlikte kullanılır.
+<div [ngSwitch]="status">
+  <p *ngSwitchCase="'active'">Aktif</p>
+  <p *ngSwitchCase="'inactive'">Pasif</p>
+  <p *ngSwitchDefault>Bilgi yok</p>
+</div>
+Notlar:
+ngSwitch ifadesi ile ngSwitchCase ve ngSwitchDefault blokları birlikte kullanılır.
+ngSwitchCase içindeki ifadeler, ngSwitch ile karşılaştırılır ve eşleşen blok render edilir.
+ngTemplateOutlet
+Açıklama: Belirli bir şablonu dinamik olarak yerleştirir.
+Kullanım: Şablonları dinamik olarak yerleştirmek ve yeniden kullanmak için kullanılır.
+
+Örnek:
+<ng-template #tmpl>Merhaba, Angular!</ng-template>
+<div [ngTemplateOutlet]="tmpl"></div>
+Notlar:
+Şablonlar ng-template etiketi ile tanımlanır ve ngTemplateOutlet direktifi ile dinamik olarak yerleştirilir.
+ngTemplateOutletContext kullanılarak şablona veri aktarılabilir:
+
+Örnek:
+
+<ng-template #tmpl let-name="name">Merhaba, {{ name }}!</ng-template>
+<div [ngTemplateOutlet]="tmpl" [ngTemplateOutletContext]="{ name: 'Angular' }"></div>
+ngContainer
+Açıklama: Görünmez bir kapsayıcı oluşturur ve genellikle birden fazla yapısal direktifi birlikte kullanmak için kullanılır.
+Kullanım: DOM'da herhangi bir element oluşturmaz, sadece içerik render edilir.
+
+Örnek
+<ng-container *ngIf="isLoggedIn">
+  <p>Kullanıcı giriş yaptı.</p>
+</ng-container>
+Notlar:
+ng-container kendisi DOM'da yer almaz, sadece içerdiği öğeleri render eder.
+Yapısal direktiflerin daha karmaşık kullanım senaryolarında faydalıdır.
+Sonuç
+Angular'da yer alan bu yerleşik yapısal direktifler, geliştiricilere kullanıcı arayüzünü dinamik olarak kontrol etme ve yönetme imkanı sağlar. Bu direktifleri etkili bir şekilde kullanarak, karmaşık ve etkileşimli web uygulamaları oluşturabilirsiniz.
+
+
+
+
+
+
